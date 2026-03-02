@@ -10,6 +10,6 @@ This repository is created for project management tools lab to explore GitHub fe
 - Codespaces
 - C Programming
 ## Weekly Progress
-> Week 1:File creation and program storing.
-> Week 2:Repository creation and folder structure.
-> Week 3:GitHub exploration and documentation.
+- Week 1:File creation and program storing.
+- Week 2:Repository creation and folder structure.
+- Week 3:GitHub exploration and documentation.
